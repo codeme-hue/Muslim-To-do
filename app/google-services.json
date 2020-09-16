@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343018490569",
+    "firebase_url": "https://muslim-to-do.firebaseio.com",
+    "project_id": "muslim-to-do",
+    "storage_bucket": "muslim-to-do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343018490569:android:fd1a46c3ad68689f87db18",
+        "android_client_info": {
+          "package_name": "id.kardihaekal.muslimto_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343018490569-7k52oeeeef4536dpu3gqcvgibd0018bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.kardihaekal.muslimto_do",
+            "certificate_hash": "6b18520fa36a0f0a5db974274256f26775ae0c8a"
+          }
+        },
+        {
+          "client_id": "343018490569-k62qvj9qj18ceieh8d55d6ik4icj2nkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrDaXlFqkSh1SOpO0bnOaJRKjd9bX45VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343018490569-k62qvj9qj18ceieh8d55d6ik4icj2nkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
